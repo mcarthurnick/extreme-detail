@@ -1,0 +1,82 @@
+.navbar-right {
+  font-size: 20px;
+}
+
+.navbar-inverse {
+    background-color: #222;
+    border-color: #222;
+}
+
+body {
+  background-color: #222;
+}
+
+section {
+  padding: 25px 0 35px;
+  background-color: #222;
+  border: 2px solid #72B854;
+
+}
+
+.contain-title {
+  color: #ccc;
+  text-align: center;
+}
+
+
+
+.container {
+  height: auto;
+  width: 100%;
+}
+
+.container p {
+  color: #ccc;
+  text-align: center;
+}
+
+.container-footer {
+  background-color: #222;
+  height: 150px;
+  width: 100%;
+}
+
+.parallax-container {
+  height: 650px;
+  width: 100%;
+}
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #333;
+    border: 1px solid #333;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+
+.caption h3 {
+  text-align: center;
+  color: #fff;
+}
+
+.btn-green {
+    color: #333;
+    background-color: #72B854;
+    border-color: #333;
+
+}
+
+.well h6 {
+  color: #333;
+  font-style: italic;
+}
+
+.thumbLogo {
+  height: 200px;
+  width: auto;
+}
